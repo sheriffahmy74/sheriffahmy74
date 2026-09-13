@@ -1,11 +1,11 @@
 <!-- Profile README for Sherif Fahmy -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4F46E5,100:06B6D4&height=260&section=header&text=Sherif%20Fahmy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4F46E5,100:06B6D4&height=280&section=header&text=Sherif%20Fahmy&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Flutter+Developer;Founder+of+Lamma;Clean+Architecture+%26+Product+Builder;Turning+ideas+into+premium+mobile+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=820&lines=Flutter+Developer;Founder+of+Lamma;Clean+Architecture+%26+Product+Builder;Building+modern+mobile+experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -39,6 +39,10 @@
   <img src="https://streak-stats.demolab.com?user=sheriffahmy74&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheriffahmy74&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+</div>
+
 ---
 
 ## ✨ About Me
@@ -55,26 +59,36 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
 
 ## 🧰 Tech Stack
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,firebase,figma" />
+</div>
+
+<div align="center">
   <img src="https://img.shields.io/badge/Bloc-007ACC?style=flat-square" />
   <img src="https://img.shields.io/badge/Cubit-007ACC?style=flat-square" />
   <img src="https://img.shields.io/badge/Clean%20Architecture-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-14B8A6?style=flat-square" />
   <img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </div>
 
 ---
 
 ## 🚀 Featured Work
 
-### Breaking Bad Characters App
-A Flutter app built with **Bloc/Cubit**, **REST API integration**, **clean architecture (MVVM)**, and a polished UI.
-
-### Task Manager
-A Flutter task management app focused on structure, usability, and clean code.
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" valign="top">
+        <h3>Breaking Bad Characters App</h3>
+        <p>Flutter app built with <b>Bloc/Cubit</b>, <b>REST API integration</b>, <b>clean architecture (MVVM)</b>, and a polished UI.</p>
+      </td>
+      <td width="50%" valign="top">
+        <h3>Task Manager</h3>
+        <p>A Flutter task management app focused on structure, usability, and clean code.</p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
