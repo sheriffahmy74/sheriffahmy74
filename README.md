@@ -124,7 +124,7 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
   <a href="mailto:sfhmy7124@gmail.com">
     <img src="https://img.shields.io/badge/Email-sfhmy7124%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/sheriffahmy0">
+  <a href="https://www.linkedin.com/in/sheriffahmy0/">
     <img src="https://img.shields.io/badge/LinkedIn-sheriffahmy0-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/sheriffahmy74">
