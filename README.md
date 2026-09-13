@@ -1,14 +1,11 @@
-<!-- 
-  Profile README for sheriffahmy74
-  Goal: premium, modern, visually strong, and concise.
--->
+<!-- Profile README for Sherif Fahmy -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:6366F1,100:06B6D4&height=240&section=header&text=Sherif%20Ahmy&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:4F46E5,100:06B6D4&height=260&section=header&text=Sherif%20Fahmy&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=36" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Flutter+Developer;Founder+of+Lamma;Clean+Architecture+%26+UI+Enthusiast;Building+modern+mobile+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=760&lines=Flutter+Developer;Founder+of+Lamma;Clean+Architecture+%26+Product+Builder;Turning+ideas+into+premium+mobile+experiences" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,10 +26,10 @@
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sheriffahmy74&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api?username=sheriffahmy74&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="190" />
       </td>
       <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffahmy74&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffahmy74&layout=compact&theme=tokyonight&hide_border=true" height="190" />
       </td>
     </tr>
   </table>
@@ -46,12 +43,12 @@
 
 ## ✨ About Me
 
-I’m a **Flutter Developer** who loves turning ideas into polished, production-ready mobile apps.
+I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I build modern mobile products with a focus on clean code, strong architecture, and polished user experiences.
 
 - 📱 Building modern apps with **Flutter & Dart**
 - 🧠 Focused on **Clean Architecture**, **MVVM**, and **Bloc/Cubit**
 - 🚀 Founder of **Lamma**
-- 🎨 Obsessed with clean UI, smooth UX, and strong product quality
+- 🎨 Obsessed with clean UI, smooth UX, and product quality
 - 🔗 Experienced with **REST APIs**, scalable code structure, and maintainable features
 
 ---
