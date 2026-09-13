@@ -22,26 +22,17 @@
 
 <br />
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=sheriffahmy74&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="190" />
-      </td>
-      <td align="center" width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sheriffahmy74&layout=compact&theme=tokyonight&hide_border=true" height="190" />
-      </td>
-    </tr>
-  </table>
-</div>
+## 📈 GitHub Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=sheriffahmy74&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <a href="https://github.com/sheriffahmy74">
+    <img src="https://img.shields.io/badge/View%20Native%20Contributions%20Graph%20on%20GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sheriffahmy74&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
-</div>
+<p align="center">
+  For the most accurate contribution numbers and calendar, please view the native GitHub contribution graph directly on my profile.
+</p>
 
 ---
 
