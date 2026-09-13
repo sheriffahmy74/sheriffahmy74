@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=820&lines=Flutter+Developer;Founder+of+Lamma;Clean+Architecture+%26+Product+Builder;Building+modern+mobile+experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Founder+of+Lamma;Mobile+App+Developer;Building+and+shipping+real+products" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -47,12 +47,13 @@
 
 ## ✨ About Me
 
-I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I build modern mobile products with a focus on clean code, strong architecture, and polished user experiences.
+I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I build and ship mobile products with a focus on clean code, strong architecture, and polished user experiences.
 
 - 📱 Building modern apps with **Flutter & Dart**
+- 🚀 Shipping apps to **Google Play** and **App Store**
 - 🧠 Focused on **Clean Architecture**, **MVVM**, and **Bloc/Cubit**
-- 🚀 Founder of **Lamma**
-- 🎨 Obsessed with clean UI, smooth UX, and product quality
+- 🔥 Hands-on experience with **Supabase**, **Firebase**, **Realtime Databases**, **Google Maps**, and **Payments**
+- 🎨 Strong focus on clean UI, smooth UX, and product quality
 - 🔗 Experienced with **REST APIs**, scalable code structure, and maintainable features
 
 ---
@@ -60,7 +61,7 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
 ## 🧰 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,git,github,firebase,figma" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,supabase,git,github,figma,androidstudio" />
 </div>
 
 <div align="center">
@@ -69,6 +70,10 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
   <img src="https://img.shields.io/badge/Clean%20Architecture-6D28D9?style=flat-square" />
   <img src="https://img.shields.io/badge/MVVM-14B8A6?style=flat-square" />
   <img src="https://img.shields.io/badge/REST%20API-111827?style=flat-square" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google%20Maps-4285F4?style=flat-square&logo=googlemaps&logoColor=white" />
+  <img src="https://img.shields.io/badge/Payments-111827?style=flat-square" />
 </div>
 
 ---
@@ -84,7 +89,7 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
       </td>
       <td width="50%" valign="top">
         <h3>Task Manager</h3>
-        <p>A Flutter task management app focused on structure, usability, and clean code.</p>
+        <p>Flutter task management app focused on structure, usability, and clean code.</p>
       </td>
     </tr>
   </table>
@@ -97,7 +102,19 @@ I’m **Sherif Fahmy**, a **Flutter Developer** and the **Founder of Lamma**. I 
 - Building premium Flutter products
 - Improving architecture and maintainability
 - Crafting better user experiences
+- Delivering real apps to production
 - Growing **Lamma** into a strong and recognizable product
+
+---
+
+## 🧩 Experience Highlights
+
+- Publishing apps to **Google Play** and **App Store**
+- Integrating **Firebase** services and authentication flows
+- Working with **Supabase** backends and realtime features
+- Using **Google Maps** in Flutter apps
+- Implementing **payment gateways** and checkout flows
+- Building app features from idea to production-ready release
 
 ---
 
